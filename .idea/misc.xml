@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/1/AndroidStudioProjects/FoodApp/app/src/main/res/drawable/action_b.xml" value="0.2195" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/FoodApp/app/src/main/res/drawable/background_category.xml" value="0.2215" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/FoodApp/app/src/main/res/drawable/background_white.xml" value="0.2215" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/FoodApp/app/src/main/res/drawable/card_background.xml" value="0.2215" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/FoodApp/app/src/main/res/drawable/grey_bar.xml" value="0.2215" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/FoodApp/app/src/main/res/drawable/grey_btn_background.xml" value="0.2205" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/FoodApp/app/src/main/res/drawable/orange_background.xml" value="0.2195" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/FoodApp/app/src/main/res/drawable/search_adit_background.xml" value="0.2205" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/FoodApp/app/src/main/res/drawable/viewholder_card.xml" value="0.2205" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/FoodApp/app/src/main/res/drawable/viewholder_recomended.xml" value="0.2205" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/FoodApp/app/src/main/res/drawable/white_button.xml" value="0.2205" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/FoodApp/app/src/main/res/drawable/white_recommended_btn.xml" value="0.2215" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/FoodApp/app/src/main/res/drawable/yellow_bar.xml" value="0.2215" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/FoodApp/app/src/main/res/drawable/yellow_btn_background.xml" value="0.2205" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/FoodApp/app/src/main/res/font-v26/banty.xml" value="0.2421875" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/FoodApp/app/src/main/res/font/abbieshire.xml" value="0.15641891891891893" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/FoodApp/app/src/main/res/font/banty.xml" value="0.15641891891891893" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/FoodApp/app/src/main/res/font/font.xml" value="0.15641891891891893" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/FoodApp/app/src/main/res/layout/activity_cart.xml" value="0.19200000457763683" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/FoodApp/app/src/main/res/layout/activity_intro.xml" value="0.1800000042915345" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/FoodApp/app/src/main/res/layout/activity_main.xml" value="0.19200000457763683" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/FoodApp/app/src/main/res/layout/activity_show_detail.xml" value="0.16800000400543225" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/FoodApp/app/src/main/res/layout/viewholder_cart.xml" value="0.24000000572204605" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/FoodApp/app/src/main/res/layout/viewholder_category.xml" value="0.2160000051498414" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/FoodApp/app/src/main/res/layout/viewholder_recommended.xml" value="0.24000000572204605" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
